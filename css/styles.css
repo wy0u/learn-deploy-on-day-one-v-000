@@ -304,6 +304,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/xiaoling-zhu.jpg");
 }
 
+#brian-wu-cover {
+ background-image: url("../assets/img/brian-wu-cover.jpg");
+}
+
+#brian-wu-card {
+ background-image: url("../assets/img/brian-wu.jpg");
+}
+
 #mo-armstrong-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/mo-armstrong-cover.jpg");
 }
